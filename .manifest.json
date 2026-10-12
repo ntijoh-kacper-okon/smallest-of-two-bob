@@ -1,6 +1,6 @@
 {
   "assignmentName": "Smallest of Two",
-  "filePath": "lib/welcome.js",
+  "filePath": "lib/smallest_of_two.js",
   "language": "javascript",
   "functionName": "smallestOfTwo",
   "functionArity": 2,
